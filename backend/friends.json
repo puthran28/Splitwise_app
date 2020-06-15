@@ -1,0 +1,67 @@
+{
+  "friends": [
+    {
+      "id": "3",
+      "name": "Krishna",
+      "amount": "300",
+      "discription": "food",
+      "owe": "YOU ARE OWED"
+    },
+    {
+      "id": "4",
+      "name": "Ashish",
+      "amount": "100",
+      "discription": "football",
+      "owe": "YOU OWE"
+    },
+    {
+      "id": "5",
+      "name": "Prabhat",
+      "amount": "200",
+      "discription": "food",
+      "owe": "YOU ARE OWED"
+    },
+    {
+      "name": "Ram",
+      "amount": "100",
+      "description": "travel",
+      "id": "nRyEa2n",
+      "owe": "YOU ARE OWED"
+    },
+    {
+      "name": "Virat",
+      "amount": "150",
+      "description": "Game",
+      "owe": "YOU OWE",
+      "id": "9KgHrVI"
+    },
+    {
+      "name": "Pranav",
+      "amount": "120",
+      "description": "Game",
+      "owe": "YOU OWE",
+      "id": "PR9Fu_7"
+    },
+    {
+      "name": "Vicky",
+      "amount": "100",
+      "description": "food",
+      "owe": "YOU OWE",
+      "id": "0ShEUL5"
+    },
+    {
+      "name": "deep",
+      "amount": "100",
+      "description": "shoping",
+      "owe": "YOU ARE OWED",
+      "id": "qtBYVEY"
+    },
+    {
+      "name": "sarfaraz",
+      "amount": "122",
+      "description": "food",
+      "owe": "YOU OWE",
+      "id": "69jeHm4"
+    }
+  ]
+}
